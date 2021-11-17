@@ -1,0 +1,21 @@
+.App {
+  /* text-align: center; */
+  margin: 0 auto;
+  width: 80%;
+}
+
+.foodForm {
+  width: 400px!important;
+}
+
+.foodInput {
+  margin: 20px 0;
+}
+
+.form {
+  display: inline-block ;
+}
+
+.meals {
+  margin-left: 50%;
+}

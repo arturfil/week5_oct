@@ -1,0 +1,27 @@
+h2 {
+  font-size: 25px;
+}
+table {
+  margin: 0 auto;
+  border-collapse: separate;
+  border-spacing: 50px 0;
+}
+
+img {
+  height: 200px;
+}
+
+thead {
+  font-weight: bold;
+  font-size: 25px;
+  margin-right: 10px;
+}
+
+td {
+  margin: 25px;
+  text-align: center;
+}
+
+button {
+  font-size: 18px;
+}
