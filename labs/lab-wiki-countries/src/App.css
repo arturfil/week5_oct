@@ -1,0 +1,13 @@
+.sidenav {
+  border-right: 1px solid lightgrey;
+}
+
+.sidenav li {
+  list-style: none;
+}
+
+.sidenav a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
